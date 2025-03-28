@@ -1,0 +1,9 @@
+{
+  "PRODUCT": {
+    "TITLE": "Product Details",
+    "NAME": "Name",
+    "PRICE": "Price",
+    "ADD_TO_CART": "Add to cart",
+    "ADDED_TO_CART": "Product \"{{name}}\" added to cart."
+  }
+}
